@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>亥生(上海)科技有限公司成立 on 59API</title>
-    <link>http://59api.com/posts/begin/</link>
+    <link>59api.com/posts/begin/</link>
     <description>Recent content in 亥生(上海)科技有限公司成立 on 59API</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Feb 2019 22:34:04 +0100</lastBuildDate>
     
-	<atom:link href="http://59api.com/posts/begin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="59api.com/posts/begin/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
