@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on 59API</title>
+    <link>http://59api.com/sections/</link>
+    <description>Recent content in Sections on 59API</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://59api.com/sections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>数据服务</title>
+      <link>http://59api.com/sections/simple-values/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://59api.com/sections/simple-values/</guid>
+      <description>通过API数据接口的形式，向下游客户提供数据查询、信息验证、充值接口、敏感词过滤和短信等服务</description>
+    </item>
+    
+    <item>
+      <title>数据应用</title>
+      <link>http://59api.com/sections/simple-choices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://59api.com/sections/simple-choices/</guid>
+      <description>大数据采集、融合、清洗、分析、挖掘、管理等技术为主要技术手段，为企业客户提供数据应用系统或定制化的数据分析成果，帮助企业进行经营决策。让更多的人看到数据可视化的魅力，帮助非专业人士通过图形化的界面轻松搭建专业水准的可视化应用，满足您会议展览、业务监控、风险预警、地理信息分析等多种业务的展示需求。</description>
+    </item>
+    
+    <item>
+      <title>定制开发</title>
+      <link>http://59api.com/sections/simple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://59api.com/sections/simple/</guid>
+      <description>根据客户需求提供多方面解决方案，为不同需求定制服务。</description>
+    </item>
+    
+  </channel>
+</rss>
